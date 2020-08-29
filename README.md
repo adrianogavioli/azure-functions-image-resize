@@ -1,2 +1,2 @@
 # azure-functions-image-resize
-Functions que utilizam blob trigger para redimencionar imagens e copia-las para seus respectivos containers.
+Functions blob trigger para redimencionar imagens e as direcionar aos seus respectivos containers.
